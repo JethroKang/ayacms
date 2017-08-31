@@ -1,0 +1,1 @@
+<img alt="140x140" src="http://lorempixel.com/140/140/">

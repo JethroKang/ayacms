@@ -1,0 +1,60 @@
+.clear,.clr {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0
+}
+
+.hidecode {
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.aya_ad {
+	font-weight: bold;
+	text-align: right;
+}
+
+.ie6-warning {
+	_position: absolute;
+	_bottom: auto;
+	_top: expression(eval(document.documentElement.scrollTop) );
+	background: rgb(255, 255, 225) url("image/warning.gif") no-repeat scroll
+		3px center;
+	top: 0;
+	left: 0;
+	font-size: 12px;
+	color: #333;
+	width: 100%;
+	padding: 2px 0px 2px 0px;
+	text-align: left;
+	text-indent: 2em;
+}
+
+.ie6-warning a {
+	text-decoration: underline;
+}
+
+#tag_setup {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	margin-bottom: 10px;
+	border-top-width: 5px;
+	border-bottom-width: 5px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #eee;
+	border-right-color: #eee;
+	border-bottom-color: #eee;
+	border-left-color: #eee;
+}
+
+.tag_note {
+	font-style: normal;
+	background-color: #f0f0f0;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}

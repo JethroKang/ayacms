@@ -1,0 +1,160 @@
+.t_l {
+	filter: alpha(opacity =                               20);
+	background: #000;
+	overflow: hidden;
+	opacity: 0.2
+}
+
+.t_c {
+	filter: alpha(opacity =                               20);
+	background: #000;
+	overflow: hidden;
+	opacity: 0.2
+}
+
+.t_r {
+	filter: alpha(opacity =                               20);
+	background: #000;
+	overflow: hidden;
+	opacity: 0.2
+}
+
+.m_l {
+	filter: alpha(opacity =                               20);
+	background: #000;
+	overflow: hidden;
+	opacity: 0.2
+}
+
+.m_r {
+	filter: alpha(opacity =                               20);
+	background: #000;
+	overflow: hidden;
+	opacity: 0.2
+}
+
+.b_l {
+	filter: alpha(opacity =                               20);
+	background: #000;
+	overflow: hidden;
+	opacity: 0.2
+}
+
+.b_c {
+	filter: alpha(opacity =                               20);
+	background: #000;
+	overflow: hidden;
+	opacity: 0.2
+}
+
+.b_r {
+	filter: alpha(opacity =                               20);
+	background: #000;
+	overflow: hidden;
+	opacity: 0.2
+}
+
+.t_l {
+	width: 8px;
+	height: 8px
+}
+
+.t_r {
+	width: 8px;
+	height: 8px
+}
+
+.b_l {
+	width: 8px;
+	height: 8px
+}
+
+.b_r {
+	width: 8px;
+	height: 8px
+}
+
+.t_c {
+	height: 8px
+}
+
+.b_c {
+	height: 8px
+}
+
+.m_l {
+	width: 8px
+}
+
+.m_l  span {
+	display: block;
+	width: 8px
+}
+
+.m_r {
+	width: 8px
+}
+
+.t_l {
+	-moz-border-radius: 4px 0 0 0;
+	-webkit-border-radius: 4px 0 0 0;
+	border-radius: 4px 0 0 0
+}
+
+.t_r {
+	-moz-border-radius: 0 4px 0 0;
+	-webkit-border-radius: 0 4px 0 0;
+	border-radius: 0 4px 0 0
+}
+
+.b_l {
+	-moz-border-radius: 0 0 0 4px;
+	-webkit-border-radius: 0 0 0 4px;
+	border-radius: 0 0 0 4px
+}
+
+.b_r {
+	-moz-border-radius: 0 0 4px 0;
+	-webkit-border-radius: 0 0 4px 0;
+	border-radius: 0 0 4px 0
+}
+
+.m_c {
+	background: #fff
+}
+
+.flb {
+	height: 30px;
+	line-height: 30px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.flb span {
+	float: right;
+	margin: 5px 5px 0 0;
+	z-index:10666;
+}
+
+.flb span a {
+	display: block;
+	text-decoration: none;
+	text-indent: -99999px;
+	font-size: 1px;
+	background-image: url(image/icon.png);
+	background-position: 0 0;
+	height: 30px;
+	width: 30px;
+}
+
+.flb span a:hover {
+	background-position: 30px 0;
+}
+
+#fwin_content_xxx,#fwin_content_showblock {
+	padding: 0px 30px 30px 30px;
+}
+
+#fwin_xxx {
+	
+}

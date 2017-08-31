@@ -1,0 +1,1 @@
+<div><img alt="140x140" src="http://www.ayacms.com/sucai/logo.png"></div>

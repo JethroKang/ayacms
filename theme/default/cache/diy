@@ -1,0 +1,83 @@
+a:37:{s:11:"blockfCnOqV";a:8:{s:4:"code";s:1812:"<div class="carousel slide" id="carousel-906890">
+  <ol class="carousel-indicators">
+    <li class="" data-slide-to="0" data-target="#carousel-906890"></li>
+    <li data-slide-to="1" data-target="#carousel-906890" class=""></li>
+    <li data-slide-to="2" data-target="#carousel-906890" class="active"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="item">
+      <img alt="" src="http://www.ayacms.com/sucai/carousel_1.jpg">
+      <div class="carousel-caption">
+        <h4>First Thumbnail label</h4>
+        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+      </div>
+    </div>
+    <div class="item">
+      <img alt="" src="http://www.ayacms.com/sucai/carousel_2.jpg">
+      <div class="carousel-caption">
+        <h4>Second Thumbnail label</h4>
+        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+      </div>
+    </div>
+    <div class="item active">
+      <img alt="" src="http://www.ayacms.com/sucai/carousel_3.jpg">
+      <div class="carousel-caption">
+        <h4>Third Thumbnail label</h4>
+        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+      </div>
+    </div>
+  </div>
+
+  <a class="left carousel-control" href="#carousel-906890" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-906890" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:8:"tag_name";s:12:"css_carousel";s:5:"eleid";s:11:"blockfCnOqV";}s:11:"blockvHxcCK";a:7:{s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:8:"tag_name";s:12:"call_content";s:5:"eleid";s:11:"blockvHxcCK";}s:11:"blockcNYYPn";a:7:{s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:8:"tag_name";s:11:"call_navbar";s:5:"eleid";s:11:"blockcNYYPn";}s:11:"block3ToyLQ";a:7:{s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:8:"tag_name";s:11:"call_navbar";s:5:"eleid";s:11:"block3ToyLQ";}s:11:"blockz6z1wR";a:9:{s:4:"code";s:154:"<strong>Twitter, Inc.</strong>
+	<br>
+	795 Folsom Ave, Suite 600
+	<br>
+	San Francisco, CA 94107
+	<br>
+	<abbr title="Phone">P:</abbr>
+	(123) 456-7890";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:11:"css_address";s:5:"eleid";s:11:"blockz6z1wR";}s:11:"block4QXj9z";a:14:{s:5:"img_1";s:45:"theme/default/upload/20140612-103516_dfgO.png";s:4:"link";s:17:"http://localhost/";s:5:"width";s:0:"";s:6:"height";s:0:"";s:5:"align";s:0:"";s:5:"class";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:55:" padding:  20px 0 30px 0; border-top: 1px solid #f0f0f0";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:10:"call_image";s:5:"eleid";s:11:"block4QXj9z";}s:11:"block118hR2";a:9:{s:5:"align";s:10:"pull-right";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:17:"call_userlogentry";s:5:"eleid";s:11:"block118hR2";}s:11:"blockm6DJMI";a:10:{s:3:"con";s:125:"首页|http://localhost/
+新闻|http://localhost/?news/
+图片|http://localhost/?pics/
+产品|http://localhost/?product/
+";s:5:"class";s:9:"text-left";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:11:"call_link_x";s:5:"eleid";s:11:"blockm6DJMI";}s:11:"blockti64Q4";a:8:{s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:7:"call_hr";s:5:"eleid";s:11:"blockti64Q4";}s:11:"block2RSw11";a:14:{s:5:"img_1";s:45:"theme/default/upload/20140613-120613_VFzv.png";s:4:"link";s:0:"";s:5:"width";s:0:"";s:6:"height";s:0:"";s:5:"align";s:0:"";s:5:"class";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:10:"call_image";s:5:"eleid";s:11:"block2RSw11";}s:11:"blockXtOsOn";a:7:{s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:8:"tag_name";s:11:"call_navbar";s:5:"eleid";s:11:"blockXtOsOn";}s:11:"blockzIvaJt";a:9:{s:4:"code";s:154:"<strong>Twitter, Inc.</strong>
+	<br>
+	795 Folsom Ave, Suite 600
+	<br>
+	San Francisco, CA 94107
+	<br>
+	<abbr title="Phone">P:</abbr>
+	(123) 456-7890";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:11:"css_address";s:5:"eleid";s:11:"blockzIvaJt";}s:11:"blockUfkNuU";a:14:{s:5:"img_1";s:45:"theme/default/upload/20140612-103516_dfgO.png";s:4:"link";s:17:"http://localhost/";s:5:"width";s:0:"";s:6:"height";s:0:"";s:5:"align";s:0:"";s:5:"class";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:55:" padding:  20px 0 30px 0; border-top: 1px solid #f0f0f0";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:10:"call_image";s:5:"eleid";s:11:"blockUfkNuU";}s:11:"blockLioiBA";a:9:{s:5:"align";s:10:"pull-right";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:17:"call_userlogentry";s:5:"eleid";s:11:"blockLioiBA";}s:11:"blockjnfYRA";a:10:{s:3:"con";s:125:"首页|http://localhost/
+新闻|http://localhost/?news/
+图片|http://localhost/?pics/
+产品|http://localhost/?product/
+";s:5:"class";s:9:"text-left";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:11:"call_link_x";s:5:"eleid";s:11:"blockjnfYRA";}s:11:"blockdcCGLT";a:8:{s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:7:"call_hr";s:5:"eleid";s:11:"blockdcCGLT";}s:11:"blockHeBqex";a:14:{s:5:"img_1";s:45:"theme/default/upload/20140613-120613_VFzv.png";s:4:"link";s:0:"";s:5:"width";s:0:"";s:6:"height";s:0:"";s:5:"align";s:0:"";s:5:"class";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:10:"call_image";s:5:"eleid";s:11:"blockHeBqex";}s:11:"blockl33O31";a:8:{s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:12:"call_content";s:5:"eleid";s:11:"blockl33O31";}s:11:"blockwQ41sN";a:8:{s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:12:"call_usernav";s:5:"eleid";s:11:"blockwQ41sN";}s:11:"blockGRz66m";a:8:{s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:12:"call_current";s:5:"eleid";s:11:"blockGRz66m";}s:11:"blockVYQcde";a:7:{s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:8:"tag_name";s:11:"call_navbar";s:5:"eleid";s:11:"blockVYQcde";}s:11:"blockTBPpot";a:9:{s:4:"code";s:292:"<h3>灵活多样的模型</h3>
+<p>既支持可视化操作,也支持源码输入.无需背参数,不用查手册,通过鼠标拖拽,即可在页面中完成调用.节省大量培训和学习成本.模型不断增加中</p>
+<p>
+<a class="btn btn-small btn-primary" href="#">更多</a>
+</p>";s:5:"_well";s:12:"well well_sm";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:8:"css_text";s:5:"eleid";s:11:"blockTBPpot";}s:11:"blockLJMdCz";a:9:{s:4:"code";s:270:"<h3>方便的模板制作</h3>
+<p>
+模板支持 Adobe Dreamweaver 可视化编辑,所见即所得.链接路径智能识别,意味着,您可能只花几分钟,就能开发出一套全新的风格.</p>
+<p>
+<a class="btn btn-small btn-primary" href="#">详情</a>
+</p>";s:5:"_well";s:12:"well well_sm";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:8:"css_text";s:5:"eleid";s:11:"blockLJMdCz";}s:11:"blockulzKLE";a:9:{s:4:"code";s:123:"<strong>AYACMS.</strong>
+	<br>
+	QQ: 0000000
+	<br>
+	Email: tw@tw.tw
+	<br>
+	<abbr title="Phone">P:</abbr>
+	156xxxxxxxx";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:11:"css_address";s:5:"eleid";s:11:"blockulzKLE";}s:11:"blockISbzkX";a:9:{s:4:"code";s:286:"<h3 >可视化的排版</h3>
+	<p >前台支持自由布局,可视化拖拽,快速生成模板,无需设计和技术参与.避免了传统制作流程复杂,人员投入高,制作周期长,内容组织不便的问题.</p>
+	<p>
+		<a class="btn btn-small" href="#" >详情 »</a>
+	</p>";s:5:"_well";s:12:"well well_sm";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:9:"css_text2";s:5:"eleid";s:11:"blockISbzkX";}s:11:"blockTncZZC";a:14:{s:5:"img_1";s:45:"theme/default/upload/20140612-103516_dfgO.png";s:4:"link";s:17:"http://localhost/";s:5:"width";s:0:"";s:6:"height";s:0:"";s:5:"align";s:0:"";s:5:"class";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:55:" padding:  20px 0 30px 0; border-top: 1px solid #f0f0f0";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:10:"call_image";s:5:"eleid";s:11:"blockTncZZC";}s:11:"blockzgtkZM";a:9:{s:5:"align";s:10:"pull-right";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:17:"call_userlogentry";s:5:"eleid";s:11:"blockzgtkZM";}s:11:"blockmKscHV";a:10:{s:3:"con";s:125:"首页|http://localhost/
+新闻|http://localhost/?news/
+图片|http://localhost/?pics/
+产品|http://localhost/?product/
+";s:5:"class";s:9:"text-left";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:11:"call_link_x";s:5:"eleid";s:11:"blockmKscHV";}s:11:"blockmdVvdt";a:8:{s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:7:"call_hr";s:5:"eleid";s:11:"blockmdVvdt";}s:11:"blockgnVJfQ";a:14:{s:5:"img_1";s:45:"theme/default/upload/20140613-120613_VFzv.png";s:4:"link";s:0:"";s:5:"width";s:0:"";s:6:"height";s:0:"";s:5:"align";s:0:"";s:5:"class";s:0:"";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:10:"call_image";s:5:"eleid";s:11:"blockgnVJfQ";}s:11:"blockIFN7K8";a:8:{s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:11:"call_subnav";s:5:"eleid";s:11:"blockIFN7K8";}s:11:"block1pbfpJ";a:8:{s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:12:"call_current";s:5:"eleid";s:11:"block1pbfpJ";}s:11:"block6nVwkw";a:8:{s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:12:"call_content";s:5:"eleid";s:11:"block6nVwkw";}s:11:"blocks13SBJ";a:13:{s:10:"channel_id";s:1:"4";s:3:"tab";s:7:"picture";s:5:"field";s:4:"hits";s:8:"titlenum";s:2:"26";s:7:"listnum";s:1:"8";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:4:"info";s:11:"_paneltitle";s:9:"苍井空";s:10:"_panellink";s:25:"http://localhost/?VODwyn/";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:9:"call_list";s:5:"eleid";s:11:"blocks13SBJ";}s:11:"block2B534q";a:13:{s:10:"channel_id";s:1:"4";s:3:"tab";s:7:"picture";s:5:"field";s:0:"";s:8:"titlenum";s:2:"26";s:7:"listnum";s:1:"8";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:4:"info";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:13:"call_list_pic";s:5:"eleid";s:11:"block2B534q";}s:11:"block4QHNZp";a:12:{s:10:"channel_id";s:1:"3";s:3:"tab";s:7:"picture";s:7:"listnum";s:1:"4";s:8:"titlenum";s:2:"26";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:4:"info";s:11:"_paneltitle";s:9:"苍井空";s:10:"_panellink";s:25:"http://localhost/?VODwyn/";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:13:"call_list_pic";s:5:"eleid";s:11:"block4QHNZp";}s:11:"blockO87h43";a:17:{s:6:"title1";s:7:"标题1";s:6:"title2";s:7:"标题2";s:6:"title3";s:7:"标题3";s:4:"con1";s:28:"内容1内容1内容1内容1";s:4:"con2";s:28:"内容2内容2内容2内容2";s:4:"con3";s:28:"内容3内容3内容3内容3";s:5:"img_1";s:45:"theme/default/upload/20140617-145511_XEon.jpg";s:5:"img_2";s:45:"theme/default/upload/20140617-145511_uYUh.jpg";s:5:"img_3";s:45:"theme/default/upload/20140617-145511_iRAz.jpg";s:5:"_well";s:1:"0";s:7:"tag_css";s:0:"";s:6:"_panel";s:1:"0";s:11:"_paneltitle";s:0:"";s:10:"_panellink";s:0:"";s:13:"tag_panel_css";s:0:"";s:8:"tag_name";s:13:"call_carousel";s:5:"eleid";s:11:"blockO87h43";}}
